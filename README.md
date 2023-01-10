@@ -1,5 +1,4 @@
-# USING-MRI-SCANS-FOR-EARLY-DETECTION-OF-ALZHEIMER'S-DISEASE_A-PREDICTIVE-MODEL
-This project aims at designing a machine learning-based predictive model that considers the clinical dementia rating (CDR) (0-healthy, 1-dementia, 2-AD) data from MRI scans to predict the prevalence of AD in a patient. 
+
 USING MRI SCANS FOR EARLY DETECTION OF ALZHEIMER'S DISEASE: A PREDICTIVE MODEL
 
 Alzheimer’s disease (AD) is a progressive neurodegenerative condition characterised by acute dementia. It is an adult-onset cognitive disorder that impacts over 850,000 people with dementia in the United Kingdom. At the current state of prevalence and absence of any known consolidated treatment, this number is estimated to rocket up to 1.5 million by 2040 (Alzheimer’s Society, 2019). Patients suffering from AD show marked decrease in their brain volume specifically the temporal and parietal lobe in comparison to a healthy brain. This reflects as impaired speech, reduced cognitive abilities, and severely compromised memory retention and recall.
